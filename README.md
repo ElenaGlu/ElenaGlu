@@ -1,5 +1,4 @@
 - Hi, I’m Elena Glukhova
-- I’m interested in Python and backend :heartpulse:
 - telegram: @elenagluu
 
 <!--
